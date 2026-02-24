@@ -4,6 +4,7 @@
 0,SansHead,ClosedEyes,,,
 0,SansText,...,
 0,SansTorso,Shrug,,,
-0,SetMaxHp,150,
+0,SetMaxHp,67,
 0,DamagePlayer,-150,,
 2,EndAttack,,,,
+
