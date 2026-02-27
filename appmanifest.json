@@ -1,6 +1,6 @@
 ﻿{
-	"name": "UNDERTALE SANS FIGHT",
-	"short_name": "UNDERTALE SANS FIGHT",
+	"name": "UNDERTALE XANDEE FIGHT",
+	"short_name": "UNDERTALE XANDEE FIGHT",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
@@ -26,3 +26,4 @@
 		"type": "image/png"
 	}]
 }
+
