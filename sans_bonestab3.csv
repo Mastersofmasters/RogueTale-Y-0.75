@@ -195,12 +195,12 @@
 0,HeartMode,0,,,,,,,,,
 0.5,SansText,you really want me dead,,,,,,,,,
 0,HeartTeleport,325,250,,,,,,,,
-0,Sound,mus_zz_megalovania,0,,,,,,,,
-0,Sanstext,ive had some training       with undyne and,,,,,,,,,
+
+0,Sanstext,ive had some training       with ????? and,,,,,,,,,
 0,sanstext,well i learned more tricks,,,,,,,,,
 0,HeartTeleport,325,250,,,,,,,,
 0,sansHead ,wink,,,,,,,,,
-0,Sound,mus_zz_megalovania,1,,,,,,,,
+
 0,heartmode,5,,,,,,,,,
 0,Setmaxhp,56,,,,,,,,,
 0,damageplayer,-580,,,,,,,,,
@@ -1364,3 +1364,4 @@
 0,SansAnimation,Idle,,,,,,,,,
 
 3,EndAttack,,
+
