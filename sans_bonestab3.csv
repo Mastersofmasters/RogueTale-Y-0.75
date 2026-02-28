@@ -93,7 +93,7 @@
 0.3,BoneVRepeat,150,370,30,0,130,10,100,4
 0.6,BoneVRepeat,450,370,30,0,130,10,100,4
 1.2,GasterBlaster,2,220,15,320,200,180,0.2,0.5
-2,SansText,"too bad."
+2,SansText,"too bad.",,
 0,SansBody,HandUp
 0.2,SansSlam,3
 0.4,GasterBlaster,1,220,25,320,460,270,0.2,0.7
@@ -173,7 +173,7 @@
 0.2,SansSlam,3
 0.4,BoneWave,4,140,12,6
 2,SansBody,HandDown
-1,SansText,"try surviving this."
+1,SansText,"try surviving this.",,
 0,SetPlayerSpeed,2.2
 0,HeartMode,2
 0,BoneVRepeat,100,360,35,0,180,12,120,8
@@ -192,7 +192,7 @@
 0,SansHead,Grin
 0,SansHead,NoEyes
 0,SansText,"...",,
-1,SansText,"you broke the script."
+1,SansText,"you broke the script.",,,
 0,ScreenShake,6,1.2
 0,SetPlayerSpeed,2.8
 0,HeartMode,4
@@ -314,5 +314,6 @@
 1,LoopBlasterRingReverse,320,240,30,6
 6,SansText,"keep up.",,,
 1,EndAttack,,,
+
 
 
